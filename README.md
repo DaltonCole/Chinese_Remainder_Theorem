@@ -30,3 +30,9 @@ python3 chinese_remainder_theorm.py
 
 ###  Output
 67
+
+##  Flags
+
+### -s
+
+Shows work to find x
